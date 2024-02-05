@@ -2,13 +2,15 @@
 
 # SeilaColor
 
-<!-- A minimal theme for VS Code that comes in dark and light.
+A dark and pink theme.
 
-[![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/theme/miguelsolorio.min-theme)
+<!-- [![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/theme/miguelsolorio.min-theme) -->
 
-![preview-dark](https://raw.githubusercontent.com/misolori/min-theme/master/screenshot-dark.png)
+![preview-dark](https://raw.githubusercontent.com/meunik/seilacolor/master/Captura1.png)
 
-![preview-light](https://raw.githubusercontent.com/misolori/min-theme/master/screenshot-light.png) -->
+![preview-dark](https://raw.githubusercontent.com/meunik/seilacolor/master/Captura2.png)
+
+![preview-dark](https://raw.githubusercontent.com/meunik/seilacolor/master/Captura3.png)
 
 </div>
 
