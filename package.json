@@ -3,13 +3,14 @@
   "displayName": "SeilaColor",
   "publisher": "SeilaColor",
   "description": "",
-  "version": "0.0.1",
+  "version": "1.1.0",
   "engines": {
     "vscode": "^1.86.0"
   },
   "categories": [
     "Themes"
   ],
+  "icon": "icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/meunik/seilacolor.git"
@@ -27,5 +28,9 @@
         "path": "./themes/n2-color-theme.json"
       }
     ]
+  },
+  "galleryBanner": {
+    "color": "#000000",
+    "theme": "dark"
   }
 }

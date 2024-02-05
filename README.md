@@ -4,7 +4,7 @@
 
 A dark and pink theme.
 
-<!-- [![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/theme/miguelsolorio.min-theme) -->
+[![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/editor/theme/seilacolor)
 
 ![preview-dark](https://raw.githubusercontent.com/meunik/seilacolor/master/Captura1.png)
 
@@ -14,13 +14,13 @@ A dark and pink theme.
 
 </div>
 
-<!-- ## Installation
+## Installation
 
-1. Install theme from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.min-theme)
+1. Install theme from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=SeilaColor.seilacolor)
 2. Go to `File > Preferences > Color Theme`
-3. Select `SeilaColor`
+3. Select `n`
 
 Alternatively install via CLI:
 ```
-code --install-extension miguelsolorio.min-theme
-``` -->
+code --install-extension SeilaColor.seilacolor
+```
