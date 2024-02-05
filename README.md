@@ -6,7 +6,7 @@
 
 A dark and pink theme.
 
-[![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/editor/theme/seilacolor)
+[![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/editor/theme/SeilaColor.seilacolor)
 
 ![preview-dark](https://raw.githubusercontent.com/meunik/seilacolor/master/Captura1.png)
 
