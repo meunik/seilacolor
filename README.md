@@ -24,7 +24,3 @@ Alternatively install via CLI:
 ```
 code --install-extension miguelsolorio.min-theme
 ``` -->
-
-## License
-
-[MIT License](LICENSE) 
