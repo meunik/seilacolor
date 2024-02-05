@@ -1,6 +1,7 @@
 {
   "name": "seilacolor",
   "displayName": "SeilaColor",
+  "publisher": "SeilaColor",
   "description": "",
   "version": "0.0.1",
   "engines": {
@@ -19,6 +20,11 @@
         "label": "n",
         "uiTheme": "vs-dark",
         "path": "./themes/n-color-theme.json"
+      },
+      {
+        "label": "n2",
+        "uiTheme": "vs-dark",
+        "path": "./themes/n2-color-theme.json"
       }
     ]
   }
