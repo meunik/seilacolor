@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/meunik/seilacolor/master/icon.png" width="140" />
+
 # SeilaColor
 
 A dark and pink theme.
