@@ -8,11 +8,9 @@ A dark and pink theme.
 
 [![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/editor/theme/SeilaColor.seilacolor)
 
-![preview-dark](https://raw.githubusercontent.com/meunik/seilacolor/master/Captura1.png)
-
-![preview-dark](https://raw.githubusercontent.com/meunik/seilacolor/master/Captura2.png)
-
-![preview-dark](https://raw.githubusercontent.com/meunik/seilacolor/master/Captura3.png)
+<img src="https://raw.githubusercontent.com/meunik/seilacolor/master/Captura1.png" width="1080" />
+<img src="https://raw.githubusercontent.com/meunik/seilacolor/master/Captura2.png" width="1080" />
+<img src="https://raw.githubusercontent.com/meunik/seilacolor/master/Captura3.png" width="1080" />
 
 </div>
 
